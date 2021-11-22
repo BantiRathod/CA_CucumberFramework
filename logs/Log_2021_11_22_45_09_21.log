@@ -1,0 +1,7 @@
+2021-11-22 21:45:27,811  INFO [main] HomePageSD:29 - Browser has been luanched
+2021-11-22 21:45:37,795  INFO [main] HomePageSD:38 - url hited
+2021-11-22 21:45:41,177  INFO [main] SignInSD:34 - clicked on sign button
+2021-11-22 21:45:41,180  INFO [main] SignInSD:42 - going to send data
+2021-11-22 21:45:41,370  INFO [main] SignInSD:46 -  entered
+2021-11-22 21:45:41,535  INFO [main] SignInSD:49 -  entered
+2021-11-22 21:45:46,839  INFO [main] SignInSD:57 - clicked on summit button
